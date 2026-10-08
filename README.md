@@ -1,1 +1,1 @@
-# nexora-a
+# nexora-ai
